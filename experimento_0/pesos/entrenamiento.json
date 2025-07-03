@@ -1,0 +1,13 @@
+[
+    {
+        "ciclo": 6,
+        "recompensa_promedio_test": 23.9,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR/actividades/proyecto_practico/experimento_1_prueba9/pesos/ciclo/modelo_final_ciclo_6.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR/actividades/proyecto_practico/experimento_1_prueba9/pesos/mejores/mejor_modelo_entrenamiento_ciclo_6.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR/actividades/proyecto_practico/experimento_1_prueba9/pesos/logs/entrenamiento_ciclo_6.json",
+        "cargar_para_entrenamiento": "final",
+        "cargar_para_test": "mejor"
+    }
+]
