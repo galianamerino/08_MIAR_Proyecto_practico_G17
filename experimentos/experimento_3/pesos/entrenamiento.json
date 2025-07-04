@@ -1,0 +1,52 @@
+[
+    {
+        "ciclo": 16,
+        "recompensa_promedio_test": 8.5,
+        "supero_umbral": false,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/ciclo/modelo_final_ciclo_16.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/mejores/mejor_modelo_entrenamiento_ciclo_16.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/logs/entrenamiento_ciclo_16.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 17,
+        "recompensa_promedio_test": 10.5,
+        "supero_umbral": false,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/ciclo/modelo_final_ciclo_17.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/mejores/mejor_modelo_entrenamiento_ciclo_17.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/logs/entrenamiento_ciclo_17.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 18,
+        "recompensa_promedio_test": 10.0,
+        "supero_umbral": false,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/ciclo/modelo_final_ciclo_18.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/mejores/mejor_modelo_entrenamiento_ciclo_18.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/logs/entrenamiento_ciclo_18.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 19,
+        "recompensa_promedio_test": 4.7,
+        "supero_umbral": false,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/ciclo/modelo_final_ciclo_19.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/mejores/mejor_modelo_entrenamiento_ciclo_19.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/logs/entrenamiento_ciclo_19.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 20,
+        "recompensa_promedio_test": 6.4,
+        "supero_umbral": false,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/ciclo/modelo_final_ciclo_20.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR/Actividades/proyecto_practico/experimento_3/pesos/logs/entrenamiento_ciclo_20.json",
+        "cargar_para_entrenamiento": "final"
+    }
+]
