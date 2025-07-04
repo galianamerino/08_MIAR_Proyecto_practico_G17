@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelo_ciclo_9_step_100000.h5f"
+all_model_checkpoint_paths: "modelo_ciclo_9_step_100000.h5f"

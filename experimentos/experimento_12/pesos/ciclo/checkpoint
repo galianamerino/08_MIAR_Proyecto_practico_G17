@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelo_final_ciclo_9.h5f"
+all_model_checkpoint_paths: "modelo_final_ciclo_9.h5f"

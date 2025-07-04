@@ -1,0 +1,202 @@
+[
+    {
+        "ciclo": 1,
+        "recompensa_promedio_test": 5.6,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_1.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_1.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_1.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 2,
+        "recompensa_promedio_test": 0.0,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_2.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_2.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_2.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 3,
+        "recompensa_promedio_test": 17.1,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_3.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_3.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_3.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 4,
+        "recompensa_promedio_test": 15.8,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_4.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_4.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_4.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 5,
+        "recompensa_promedio_test": 6.0,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_5.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_5.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_5.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 6,
+        "recompensa_promedio_test": 12.2,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_6.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_6.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_6.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 7,
+        "recompensa_promedio_test": 16.9,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_7.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_7.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_7.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 8,
+        "recompensa_promedio_test": 16.0,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_8.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_8.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_8.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 9,
+        "recompensa_promedio_test": 14.2,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_9.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_9.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_9.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 10,
+        "recompensa_promedio_test": 12.0,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_10.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_10.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_10.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 11,
+        "recompensa_promedio_test": 6.9,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_11.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_11.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_11.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 12,
+        "recompensa_promedio_test": 12.1,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_12.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_12.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_12.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 13,
+        "recompensa_promedio_test": 12.3,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_13.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_13.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_13.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 14,
+        "recompensa_promedio_test": 14.4,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_14.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_14.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_14.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 15,
+        "recompensa_promedio_test": 14.1,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_15.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_15.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_15.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 16,
+        "recompensa_promedio_test": 11.3,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_16.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_16.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_16.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 17,
+        "recompensa_promedio_test": 11.1,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_17.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_17.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_17.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 18,
+        "recompensa_promedio_test": 2.1,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_18.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_18.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_18.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 19,
+        "recompensa_promedio_test": 4.8,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_19.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_19.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_19.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 20,
+        "recompensa_promedio_test": 10.6,
+        "supero_umbral": false,
+        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/ciclo/modelo_final_ciclo_20.h5f",
+        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_11/pesos/logs/entrenamiento_ciclo_20.json",
+        "cargar_para_entrenamiento": "final"
+    }
+]
