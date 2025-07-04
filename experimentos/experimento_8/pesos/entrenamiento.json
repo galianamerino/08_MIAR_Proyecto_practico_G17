@@ -1,0 +1,12 @@
+[
+    {
+        "ciclo": 20,
+        "recompensa_promedio_test": 12.6,
+        "supero_umbral": false,
+        "modelo_final": "/content/gdrive/MyDrive/EDEX/Master Inteligencia Artificial - VIU/03 Asignaturas/08 Aprendizaje por Refuerzo/Proyecto de programaci\u00f3n/08_MIAR/Actividades/proyecto_practico/experimento_8/pesos/ciclo/modelo_final_ciclo_20.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/MyDrive/EDEX/Master Inteligencia Artificial - VIU/03 Asignaturas/08 Aprendizaje por Refuerzo/Proyecto de programaci\u00f3n/08_MIAR/Actividades/proyecto_practico/experimento_8/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/MyDrive/EDEX/Master Inteligencia Artificial - VIU/03 Asignaturas/08 Aprendizaje por Refuerzo/Proyecto de programaci\u00f3n/08_MIAR/Actividades/proyecto_practico/experimento_8/pesos/logs/entrenamiento_ciclo_20.json",
+        "cargar_para_entrenamiento": "final"
+    }
+]
