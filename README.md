@@ -35,5 +35,5 @@ Rúbrica: Se valorará la originalidad en la solución aportada, así como la ca
 
 Si no se consigue una puntuación óptima, responder sobre la mejor puntuación obtenida.
 Para entrenamientos largos, recordad que podéis usar checkpoints de vuestros modelos para retomar los entrenamientos. En este caso, recordad cambiar los parámetros adecuadamente (sobre todo los relacionados con el proceso de exploración).
-Se deberá entregar unicamente el notebook y los pesos del mejor modelo en un fichero .zip, de forma organizada.
+Se deberá entregar únicamente el notebook y los pesos del mejor modelo en un fichero .zip, de forma organizada.
 Cada alumno deberá de subir la solución de forma individual.
