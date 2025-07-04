@@ -2,8 +2,18 @@
 
 En este carpeta se muestran los resultados de diferentes experimentos llevados a cabo con el fin de estimar la parametrización más adecuada para nuestro proyecto y los objetivos deseados.
 
-Debido al tamaño de los archivos de pesos de entrenamiento, éstos no se han podido subir directamente a GitHub, pero se pueden descargar de Google Drive desde los enlaces que se proporcionan con cada uno de los experimentos realizados.
+Debido al tamaño de los archivos de pesos de entrenamiento, éstos no se han podido subir directamente a GitHub por completo.
 
+En la carpeta de cada experimento se incluye:
+
+1) **/pesos/json**: Donde se incluyen los ficheros json de cada uno de los ciclos analizados.
+2) **/pesos/mejores**: Donde se encuentrar los pesos del mejor modelo global y los pesos del mejor modelo del último ciclo analizado.
+3) También se incluye el fichero **hiperparametros.csv** con los hiperpárametros utilizados, y el fichero **Resultados_EXPERIMENTO_N.csv** con los resultados promedio, mínimo y máximo obtenido en el test para el experimento N.
+
+   
+Independientemente de los ficheros subidos al GitHub, el conjunto completo de datos se puede descargar de Google Drive desde los enlaces que se proporcionan con cada uno de los experimentos realizados.
+
+A continuación, se describen los diferentes experimentos llevados a cabo, con los enlaces a los correspondientes datos del entrenamiento.
 
 ## EXPERIMENTOS 1-2
 
