@@ -1,4 +1,4 @@
-# 08_MIAR_Proyecto_practico_G17
+# 08_MIAR_Proyecto_práctico_G17
 
 ## Alumnos:
 
