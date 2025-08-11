@@ -4,9 +4,9 @@ En esta carpeta se muestra un vídeo de demostración de una partida del juego u
 
 Testing for 1 episodes ...
 
-Episode 1: reward: 28.000, steps: 1159
+Episode 1: reward: 33.000, steps: 1336
 
-[VISUALIZAR VIDEO DE DEMOSTRACIÓN](https://drive.google.com/file/d/1LWjcU7LiGZqBEPabJ4JoaCEVhXuMnNEP/view?usp=drive_link)
+[VISUALIZAR VIDEO DE DEMOSTRACIÓN](https://drive.google.com/file/d/1AcNBPtPyaLfJa5vPxArUkGR9mi1fp33t/view?usp=drive_link)
 
                               
 
