@@ -1,12 +1,12 @@
 [
     {
         "ciclo": 20,
-        "recompensa_promedio_test": 18.4,
-        "supero_umbral": false,
-        "modelo_final": "/content/gdrive/My Drive/08_MIAR_v2/Actividades/proyecto_practico/experimento_10/pesos/ciclo/modelo_final_ciclo_20.h5f",
-        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_v2/Actividades/proyecto_practico/experimento_10/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
+        "recompensa_promedio_test": 20.9,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_10/pesos/ciclo/modelo_final_ciclo_20.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_10/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
         "mejor_modelo_global": null,
-        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_v2/Actividades/proyecto_practico/experimento_10/pesos/logs/entrenamiento_ciclo_20.json",
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_10/pesos/logs/entrenamiento_ciclo_20.json",
         "cargar_para_entrenamiento": "final"
     }
 ]
