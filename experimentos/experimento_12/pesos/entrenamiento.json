@@ -1,92 +1,52 @@
 [
     {
-        "ciclo": 1,
-        "recompensa_promedio_test": 16.6,
+        "ciclo": 16,
+        "recompensa_promedio_test": 19.5,
         "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_1.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_1.h5f",
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/ciclo/modelo_final_ciclo_16.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_16.h5f",
         "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_1.json",
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/logs/entrenamiento_ciclo_16.json",
         "cargar_para_entrenamiento": "final"
     },
     {
-        "ciclo": 2,
-        "recompensa_promedio_test": 16.7,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_2.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_2.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_2.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 3,
-        "recompensa_promedio_test": 16.2,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_3.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_3.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_3.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 4,
-        "recompensa_promedio_test": 18.2,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_4.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_4.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_4.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 5,
-        "recompensa_promedio_test": 17.0,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_5.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_5.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_5.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 6,
-        "recompensa_promedio_test": 18.6,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_6.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_6.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_6.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 7,
-        "recompensa_promedio_test": 17.1,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_7.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_7.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_7.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 8,
-        "recompensa_promedio_test": 16.0,
-        "supero_umbral": false,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_8.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_8.h5f",
-        "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_8.json",
-        "cargar_para_entrenamiento": "final"
-    },
-    {
-        "ciclo": 9,
-        "recompensa_promedio_test": 22.0,
+        "ciclo": 17,
+        "recompensa_promedio_test": 20.9,
         "supero_umbral": true,
-        "modelo_final": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/ciclo/modelo_final_ciclo_9.h5f",
-        "mejor_modelo_ciclo": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_9.h5f",
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/ciclo/modelo_final_ciclo_17.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_17.h5f",
         "mejor_modelo_global": null,
-        "log_entrenamiento": "D:\\Desarrollo\\Python\\Actividad_APR_C1\\experimento_12/pesos/logs/entrenamiento_ciclo_9.json",
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/logs/entrenamiento_ciclo_17.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 18,
+        "recompensa_promedio_test": 21.1,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/ciclo/modelo_final_ciclo_18.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_18.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/logs/entrenamiento_ciclo_18.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 19,
+        "recompensa_promedio_test": 26.1,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/ciclo/modelo_final_ciclo_19.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_19.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/logs/entrenamiento_ciclo_19.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 20,
+        "recompensa_promedio_test": 20.3,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/ciclo/modelo_final_ciclo_20.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_12/pesos/logs/entrenamiento_ciclo_20.json",
         "cargar_para_entrenamiento": "final"
     }
 ]
