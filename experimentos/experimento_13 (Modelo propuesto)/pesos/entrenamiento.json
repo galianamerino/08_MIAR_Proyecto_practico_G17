@@ -1,0 +1,62 @@
+[
+    {
+        "ciclo": 15,
+        "recompensa_promedio_test": 22.8,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/ciclo/modelo_final_ciclo_15.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/mejores/mejor_modelo_entrenamiento_ciclo_15.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/logs/entrenamiento_ciclo_15.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 16,
+        "recompensa_promedio_test": 20.9,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/ciclo/modelo_final_ciclo_16.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/mejores/mejor_modelo_entrenamiento_ciclo_16.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/logs/entrenamiento_ciclo_16.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 17,
+        "recompensa_promedio_test": 23.7,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/ciclo/modelo_final_ciclo_17.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/mejores/mejor_modelo_entrenamiento_ciclo_17.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/logs/entrenamiento_ciclo_17.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 18,
+        "recompensa_promedio_test": 24.1,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/ciclo/modelo_final_ciclo_18.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/mejores/mejor_modelo_entrenamiento_ciclo_18.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/logs/entrenamiento_ciclo_18.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 19,
+        "recompensa_promedio_test": 25.0,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/ciclo/modelo_final_ciclo_19.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/mejores/mejor_modelo_entrenamiento_ciclo_19.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/logs/entrenamiento_ciclo_19.json",
+        "cargar_para_entrenamiento": "final"
+    },
+    {
+        "ciclo": 20,
+        "recompensa_promedio_test": 28.2,
+        "supero_umbral": true,
+        "modelo_final": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/ciclo/modelo_final_ciclo_20.h5f",
+        "mejor_modelo_ciclo": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/mejores/mejor_modelo_entrenamiento_ciclo_20.h5f",
+        "mejor_modelo_global": null,
+        "log_entrenamiento": "/content/gdrive/My Drive/08_MIAR_2_convocatoria/Actividades/proyecto_practico/experimento_extra/pesos/logs/entrenamiento_ciclo_20.json",
+        "cargar_para_entrenamiento": "final"
+    }
+]
